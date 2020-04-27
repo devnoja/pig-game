@@ -25,7 +25,7 @@ document.querySelector(".btn-roll").addEventListener("click", function() {
   }
 });
 
-document.querySelector(".btn-hold").addEventListener("click", function() {
+document.querySelector(".btn-pass").addEventListener("click", function() {
   if (gamePlaying) {
     // Add current Score to the Global Score
     score[activePlayer] += roundScore;

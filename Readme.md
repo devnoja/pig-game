@@ -13,3 +13,5 @@ If player decides to hold, then their current scores are added to overall score.
 The first player to score 100 wins the game.
 
 **NB: The players can decide to set predetermined score at the beginning of the game**
+
+https://javascript-piggame.netlify.app/

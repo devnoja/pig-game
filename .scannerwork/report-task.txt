@@ -1,0 +1,6 @@
+projectKey=pig-game
+serverUrl=http://localhost:9000
+serverVersion=9.2.4.50792
+dashboardUrl=http://localhost:9000/dashboard?id=pig-game
+ceTaskId=AX3iCVsvnEBt9O3Nm1xi
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX3iCVsvnEBt9O3Nm1xi
